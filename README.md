@@ -17,3 +17,7 @@ Passionate about technology, science and programming in a career transition to *
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=101010)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansguerravega&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hansguerravega&theme=dark&background=000000)](https://git.io/streak-stats)
